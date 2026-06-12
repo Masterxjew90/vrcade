@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vrcade-v1';
+const CACHE_NAME = 'vrcade-v2';
 const ASSETS_TO_CACHE = [
   './',
   './Untitled-1.html',
