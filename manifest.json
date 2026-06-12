@@ -2,7 +2,7 @@
   "name": "VRCADE - Vote, Play, Compete",
   "short_name": "VRCADE",
   "description": "Vote on games, play in immersive VR pods, and compete on the leaderboard. The arcade where the crowd controls the game library.",
-  "start_url": "./Untitled-1.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
